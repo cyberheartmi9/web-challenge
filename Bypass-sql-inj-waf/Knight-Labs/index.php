@@ -12,5 +12,6 @@
 <a href="/Knight-Labs/Websecurity/Sql-injection/level-7.php?id=1">Level 7</a><br>
 <a href="/Knight-Labs/Websecurity/Sql-injection/level-8.php?id=1">Level 8</a><br>
 <a href="/Knight-Labs/Websecurity/Sql-injection/level-9.php?id=1">Level 9</a><br>
+<a href="/Knight-Labs/Websecurity/Sql-injection/level-9.php?id=1&sig=b36c525848fee03529b338fa096a10e1">Level 10</a><br>
 
 
