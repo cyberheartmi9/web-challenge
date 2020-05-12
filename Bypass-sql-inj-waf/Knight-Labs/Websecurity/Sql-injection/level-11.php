@@ -24,7 +24,7 @@ if($id==false){
 
 
     echo "<h1> cant Decrypt it !!!!!!</h1>";
-    <a href="/Knight-Labs/Websecurity/Sql-injection/search.php?name=1"> hint  </a><br>
+    echo "<a href='/Knight-Labs/Websecurity/Sql-injection/search.php?name=1'> hint  </a><br>";
 
 
 }
